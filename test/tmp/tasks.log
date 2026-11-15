@@ -1,0 +1,14 @@
+{"ts":"2026-11-15T04:23:54.838Z","task_id":"gk_24_9d1","decision":"APPROVE","reason_code":"VALID_CONDITION","status":200,"ms":921,"proof":true,"flipped":false,"proof_tx":null,"kurier":"not-configured"}
+{"ts":"2026-11-15T04:23:55.765Z","task_id":"gk_25_9d1","decision":"APPROVE","reason_code":"VALID_CONDITION","status":200,"ms":315,"proof":true,"flipped":false,"proof_tx":null,"kurier":"not-configured"}
+{"ts":"2026-11-15T04:23:56.140Z","task_id":"gk_26_9d1","decision":"REJECT","reason_code":"VK_SUBSTITUTION","status":200,"ms":295,"proof":true,"flipped":false,"proof_tx":null,"kurier":"not-configured"}
+{"ts":"2026-11-15T04:23:56.167Z","task_id":"gk_27_9d1","decision":"REJECT","reason_code":"PROOF_REUSED","status":200,"ms":1,"proof":false,"flipped":false,"proof_tx":null,"kurier":"skipped-no-proof"}
+{"ts":"2026-11-15T04:23:56.533Z","task_id":"gk_28_9d1","decision":"REJECT","reason_code":"THRESHOLD_MISMATCH","status":200,"ms":364,"proof":true,"flipped":false,"proof_tx":null,"kurier":"not-configured"}
+{"ts":"2026-11-15T04:23:56.835Z","task_id":"gk_29_9d1","decision":"REJECT","reason_code":"EXPIRED_CONDITION","status":200,"ms":282,"proof":true,"flipped":false,"proof_tx":null,"kurier":"not-configured"}
+{"ts":"2026-11-15T04:23:57.146Z","task_id":"gk_30_9d1","decision":"REJECT","reason_code":"RECIPIENT_MISMATCH","status":200,"ms":289,"proof":true,"flipped":false,"proof_tx":null,"kurier":"not-configured"}
+{"ts":"2026-11-15T04:23:57.458Z","task_id":"gk_31_9d1","decision":"REJECT","reason_code":"AMOUNT_OVERFLOW","status":200,"ms":288,"proof":true,"flipped":false,"proof_tx":null,"kurier":"not-configured"}
+{"ts":"2026-11-15T04:23:57.479Z","task_id":null,"decision":null,"reason_code":null,"status":401,"ms":0,"hmac":"fail"}
+{"ts":"2026-11-15T04:23:57.480Z","task_id":null,"decision":null,"reason_code":null,"status":401,"ms":0,"hmac":"fail"}
+{"ts":"2026-11-15T04:23:57.482Z","task_id":"gk_24_9d1","decision":"APPROVE","reason_code":"VALID_CONDITION","status":200,"ms":1,"duplicate":true}
+{"ts":"2026-11-15T04:23:57.483Z","task_id":null,"decision":null,"reason_code":null,"status":400,"ms":0}
+{"ts":"2026-11-15T04:23:57.484Z","task_id":null,"decision":null,"reason_code":null,"status":400,"ms":0}
+{"ts":"2026-11-15T04:23:57.485Z","task_id":"gk_35_9d1","decision":null,"reason_code":null,"status":400,"ms":0}
